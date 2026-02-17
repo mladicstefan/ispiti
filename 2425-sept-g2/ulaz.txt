@@ -1,0 +1,15 @@
+The Hunger Games,2012,Jennifer Lawrence,         Josh Hutcherson,   Liam Hemsworth
+The Avengers,2012,Robert Downey Jr,Chris Evans,Scarlett Johansson,    Chris Hemsworth
+Inception,2010,Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,Tom Hardy
+The Revenant,2015,Leonardo DiCaprio,Tom Hardy,           Domhnall Gleeson
+La La Land,2016,Ryan Gosling,Emma Stone
+Interstellar,2014,Matthew McConaughey,Anne Hathaway,    Jessica Chastain,Matt Damon
+Mad Max Fury Road,2015,Tom Hardy,Charlize Theron,    Nicholas Hoult
+A Star Is Born,2018,Lady Gaga,Bradley Cooper
+Dune,2021,Timothee Chalamet,Rebecca Ferguson,    Zendaya,Jason Momoa
+Black Panther,2018,Chadwick Boseman,Michael B Jordan,Lupita Nyongo,Letitia Wright
+Shutter Island,2010,Leonardo DiCaprio,Mark Ruffalo
+Joker,2019,Joaquin Phoenix,Zazie Beetz,   Robert De Niro
+Guardians of the Galaxy,2014,Chris Pratt,Zoe Saldana,Dave Bautista,Bradley Cooper
+Blade Runner 2049,2017,Ryan Gosling,Ana de Armas,Harrison Ford
+The Dark Knight,2008,Christian Bale,Heath Ledger,Michael Caine
